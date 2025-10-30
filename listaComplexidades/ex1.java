@@ -12,5 +12,6 @@ public class ex1 {
 
     System.out.println("Quantidade de animais: " + totalAnimais);
     System.out.println("Quantidade de Patas: " + quantidadePatas);
+    
   }
 }
