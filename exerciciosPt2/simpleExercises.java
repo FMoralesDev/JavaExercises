@@ -54,7 +54,7 @@ public class simpleExercises {
           int opcao = scanner.nextInt();
 
           switch (opcao) {
-            case 1:
+            case sa:
              cor = "Azul";
           System.out.println("Você escolheu a cor Azul!");
             break;
