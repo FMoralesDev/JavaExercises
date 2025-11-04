@@ -9,7 +9,7 @@
 
 * 🪜 I'm praticing my JAVA's skills.
 
-* & not least 📝 I'll always be updating and commiting things here 📍.
+* & not least 📝 I'll be updating and commiting things here 📍.
 
 <div style="display: inline-block" >
 <img heigth= "100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
